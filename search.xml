@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>newpaername</title>
+      <link href="2020/11/20/newpaername/"/>
+      <url>2020/11/20/newpaername/</url>
+      
+        <content type="html"><![CDATA[<h1 id="新文件"><a href="#新文件" class="headerlink" title="新文件"></a>新文件</h1><pre><code class="shell">hexo new fileName</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/11/18/hello-world/"/>
       <url>2020/11/18/hello-world/</url>
